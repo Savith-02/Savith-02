@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm a first-year undergrad at UCSC
+Interested in frontend technologies and Machine learning concepts.
+Pursue poetry and artistic pursuits in my free time.
+Hit me up if you wanna partner up in any projects.
 <!--
 **Savith-02/Savith-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
