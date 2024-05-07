@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a first-year undergrad at UCSC
+- I'm a second-year undergrad at UCSC
 - Interested in frontend technologies and Machine learning concepts.
 - Enjoy engaging in poetry and exploring various artistic pursuits.
 - Hit me up if you wanna partner up in any projects.
